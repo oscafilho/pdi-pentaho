@@ -73,4 +73,3 @@ ENV PENTAHO_DI_JAVA_OPTIONS="-Dfile.encoding=utf8 -Dpentaho.installed.licenses.f
 USER developer
 ENV HOME /home/pdi
 CMD /home/pdi/data-integration/./spoon.sh
-#CMD ${INSTALLATION_PATH}/data-integration/./spoon.sh
