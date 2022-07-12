@@ -1,4 +1,4 @@
-# Integração Pentaho Data Integration - PDI
+# Integração Docker com Pentaho Data Integration - PDI
 
 ## Passo 1
 Baixar o arquivo no site [Pentaho-PDI](https://sourceforge.net/projects/pentaho/files/Pentaho-9.3/client-tools/pdi-ce-9.3.0.0-428.zip/download)
